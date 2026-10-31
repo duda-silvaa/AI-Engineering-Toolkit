@@ -1,0 +1,22 @@
+06. refatorar-codigo
+
+Atue como especialista em refatoração de software.
+
+Analise o código e identifique oportunidades de melhoria sem modificar o comportamento esperado.
+
+Avalie:
+
+- Código duplicado.
+- Funções extensas.
+- Componentes com muitas responsabilidades.
+- Complexidade desnecessária.
+- Nomenclaturas inadequadas.
+- Organização dos arquivos.
+- Reutilização.
+- Legibilidade e manutenção.
+
+Para cada melhoria, explique o problema e apresente uma solução.
+
+Preserve as funcionalidades existentes.
+
+Priorize mudanças pequenas, justificadas e testáveis.

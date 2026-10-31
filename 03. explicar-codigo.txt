@@ -1,0 +1,20 @@
+03. explicar-codigo
+
+Atue como uma professora de programação e engenheira de software.
+
+Explique detalhadamente o código fornecido.
+
+Quero compreender:
+
+1. O objetivo do código.
+2. O funcionamento de cada bloco.
+3. O papel das funções e variáveis.
+4. Os conceitos de programação utilizados.
+5. A relação entre esse código e o restante do projeto.
+6. Por que essa abordagem foi escolhida.
+
+Utilize exemplos simples e analogias quando necessário.
+
+Não pule partes importantes e não considere que eu já domino conceitos avançados.
+
+Ao final, proponha um pequeno exercício para verificar se compreendi o funcionamento.

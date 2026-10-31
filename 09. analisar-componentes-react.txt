@@ -1,0 +1,18 @@
+09. analisar-componentes-react
+
+Atue como especialista em React e TypeScript.
+
+Analise os componentes existentes e avalie:
+
+- Responsabilidade de cada componente.
+- Gerenciamento de estado.
+- Props e tipagem.
+- Hooks utilizados.
+- Reutilização.
+- Renderizações.
+- Separação entre lógica e apresentação.
+- Tratamento de carregamento e erros.
+
+Identifique oportunidades de melhoria e explique como reconhecer esses padrões em outros projetos React.
+
+Não modifique o código inicialmente.

@@ -1,0 +1,21 @@
+08. analisar-performance
+
+Atue como engenheira de software especializada em performance.
+
+Analise o projeto e procure possíveis gargalos de desempenho.
+
+Investigue:
+
+- Consultas ao banco de dados.
+- Renderizações desnecessárias.
+- Carregamento de componentes.
+- Processamento de grandes volumes de dados.
+- Chamadas repetidas de APIs.
+- Gerenciamento de memória.
+- Operações assíncronas.
+
+Diferencie problemas comprovados de possíveis oportunidades de otimização.
+
+Priorize os problemas pelo impacto e apresente formas de medir os resultados antes e depois das melhorias.
+
+Não otimize prematuramente.

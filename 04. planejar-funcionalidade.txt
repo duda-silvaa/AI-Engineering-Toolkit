@@ -1,0 +1,21 @@
+04. planejar-funcionalidade
+
+Atue como uma engenheira de software experiente.
+
+Preciso implementar uma nova funcionalidade no projeto.
+
+Antes de escrever qualquer código:
+
+1. Compreenda os requisitos.
+2. Analise a arquitetura existente.
+3. Identifique os arquivos relacionados.
+4. Verifique componentes e funções reutilizáveis.
+5. Identifique dependências necessárias.
+6. Avalie possíveis impactos em funcionalidades existentes.
+7. Proponha uma estratégia de implementação.
+
+Apresente um plano dividido em pequenas etapas.
+
+Não implemente nada antes de apresentar o planejamento.
+
+Respeite as tecnologias e os padrões já utilizados no projeto.

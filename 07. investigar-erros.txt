@@ -1,0 +1,23 @@
+07. investigar-erros 
+
+Atue como especialista em debugging.
+
+Investigue o seguinte problema:
+
+[DESCREVA O ERRO]
+
+Analise as mensagens de erro, os arquivos relacionados e o fluxo de execução.
+
+Identifique:
+
+1. A causa provável e as evidências.
+2. O arquivo e o trecho responsável.
+3. O motivo técnico do problema.
+4. Possíveis impactos em outras funcionalidades.
+5. A solução mais adequada.
+
+Não faça alterações aleatórias.
+
+Apresente primeiro o diagnóstico e depois a correção recomendada.
+
+Após corrigir, indique como testar se o problema foi resolvido e se outros comportamentos continuam funcionando.

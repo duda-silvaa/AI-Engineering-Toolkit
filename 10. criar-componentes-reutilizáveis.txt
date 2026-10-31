@@ -1,0 +1,19 @@
+10. criar-componentes-reutilizáveis
+
+Atue como desenvolvedora especialista em React e TypeScript.
+
+Preciso criar um componente reutilizável para:
+
+[DESCREVA O COMPONENTE]
+
+Antes de implementar:
+
+1. Analise se já existe algo semelhante no projeto.
+2. Identifique as propriedades necessárias.
+3. Defina os tipos TypeScript.
+4. Considere diferentes estados e comportamentos.
+5. Avalie como o componente poderá ser reutilizado em outras telas.
+
+Crie uma solução simples, organizada e escalável, respeitando os padrões existentes.
+
+Explique a implementação e apresente exemplos de utilização.

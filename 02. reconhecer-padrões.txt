@@ -1,0 +1,27 @@
+02. reconhecer-padrões 
+
+Atue como especialista em arquitetura e engenharia de software.
+
+Analise o código fornecido e identifique padrões de programação utilizados.
+
+Procure por:
+
+- Componentes reutilizáveis.
+- Funções recorrentes.
+- Padrões de organização.
+- Separação de responsabilidades.
+- Tratamento de erros.
+- Gerenciamento de estados.
+- Comunicação entre módulos.
+- Padrões de acesso a dados.
+- Repetições desnecessárias.
+
+Para cada padrão encontrado:
+
+1. Explique o que é.
+2. Mostre onde aparece no projeto.
+3. Explique por que foi utilizado.
+4. Apresente situações em que pode ser reutilizado.
+5. Mostre um exemplo simplificado.
+
+Não altere o código. O objetivo é desenvolver minha capacidade de reconhecer padrões em outros projetos.

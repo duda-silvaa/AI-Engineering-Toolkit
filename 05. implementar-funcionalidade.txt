@@ -1,0 +1,22 @@
+05. implementar-funcionalidade
+
+Implemente a funcionalidade descrita abaixo no projeto existente.
+
+Requisitos:
+
+[DESCREVA A FUNCIONALIDADE]
+
+Instruções:
+
+- Respeite a arquitetura existente.
+- Reutilize componentes e funções quando apropriado.
+- Evite duplicação de código.
+- Mantenha consistência visual e estrutural.
+- Considere tratamento de erros e validações.
+- Não altere funcionalidades não relacionadas.
+- Não instale dependências sem justificar a necessidade.
+- Não invente dados ou funcionalidades.
+
+Implemente em etapas pequenas.
+
+Após cada etapa, explique os arquivos modificados, as decisões técnicas e como validar o funcionamento.

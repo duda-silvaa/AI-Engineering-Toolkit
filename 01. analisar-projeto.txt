@@ -1,0 +1,22 @@
+01. analisar-projeto
+
+Atue como uma engenheira de software sênior.
+
+Analise integralmente a estrutura do projeto antes de propor qualquer alteração.
+
+Identifique:
+
+1. Tecnologias, linguagens e frameworks utilizados.
+2. Organização das pastas e arquivos.
+3. Responsabilidade de cada módulo.
+4. Como os componentes se comunicam.
+5. Como os dados são armazenados, recebidos e enviados.
+6. Padrões arquiteturais e de programação utilizados.
+7. Dependências e bibliotecas principais.
+8. Possíveis problemas de organização ou manutenção.
+
+Não modifique nenhum arquivo nesta etapa.
+
+Apresente um relatório técnico explicando como o projeto funciona, utilizando exemplos dos arquivos existentes.
+
+Não presuma funcionalidades que não estejam presentes no código.

@@ -1,0 +1,21 @@
+15. criar-testes
+
+Atue como especialista em testes de software.
+
+Analise a funcionalidade fornecida e identifique cenários que precisam ser testados.
+
+Considere:
+
+- Cenários de sucesso.
+- Entradas inválidas.
+- Dados vazios.
+- Limites e casos extremos.
+- Falhas de integração.
+- Tratamento de exceções.
+- Regressões.
+
+Identifique o tipo de teste mais adequado: unitário, integração ou ponta a ponta.
+
+Utilize as ferramentas de testes já existentes no projeto sempre que possível.
+
+Apresente os casos de teste e explique o resultado esperado.

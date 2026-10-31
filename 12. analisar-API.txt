@@ -1,0 +1,22 @@
+12. analisar-API
+
+
+Atue como engenheira de software especializada em APIs REST.
+
+Analise a integração apresentada.
+
+Explique:
+
+1. O objetivo da API.
+2. Os endpoints utilizados.
+3. Os métodos HTTP.
+4. Os parâmetros enviados.
+5. Os formatos de dados, incluindo JSON.
+6. Os códigos de status HTTP.
+7. O tratamento de erros.
+8. A autenticação, quando existente.
+9. Como a aplicação consome e apresenta os dados.
+
+Identifique problemas de integração e possíveis melhorias.
+
+Utilize exemplos práticos e não invente endpoints ou respostas.

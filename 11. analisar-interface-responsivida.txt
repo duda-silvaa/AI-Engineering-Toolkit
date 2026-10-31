@@ -1,0 +1,20 @@
+11. analisar-interface-responsividade
+
+Atue como especialista em desenvolvimento front-end e UX.
+
+Analise a interface fornecida e avalie:
+
+- Hierarquia visual.
+- Organização dos elementos.
+- Responsividade.
+- Acessibilidade.
+- Consistência dos componentes.
+- Espaçamentos e alinhamentos.
+- Experiência de navegação.
+- Estados de carregamento, vazio e erro.
+
+Identifique problemas e apresente melhorias práticas.
+
+Não altere a identidade visual sem necessidade.
+
+Priorize uma interface funcional, acessível e consistente.

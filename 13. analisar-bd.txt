@@ -1,0 +1,20 @@
+13. analisar-bd
+
+Atue como especialista em banco de dados e SQL.
+
+Analise a estrutura do banco de dados fornecida.
+
+Identifique:
+
+- Tabelas e suas responsabilidades.
+- Chaves primárias e estrangeiras.
+- Relacionamentos.
+- Restrições e integridade.
+- Normalização.
+- Consultas SQL.
+- Índices e possíveis gargalos.
+- Riscos de inconsistência.
+
+Explique como os dados se relacionam e proponha melhorias justificadas.
+
+Não altere a estrutura sem apresentar os impactos e a necessidade da mudança.
